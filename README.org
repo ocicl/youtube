@@ -1,0 +1,10 @@
+* youtube
+
+Play songs from youtube given a youtube url or a search string.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mihaiolteanu/youtube.git   |
+| commit  | 0fde2a5  |
+| systems | youtube |
+|---------+-------------------------------------------|
+
